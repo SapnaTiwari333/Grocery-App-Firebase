@@ -1,9 +1,12 @@
 Grocery-App-Firebase
+
 A modern grocery shopping app built with Flutter and powered by Firebase, providing users with a seamless shopping experience. The app allows users to browse products, add them to the cart, and place orders with real-time updates.
 
 
 
 Features ✨
+
+
 ✅ User Authentication – Sign up, log in, and manage accounts with Firebase Authentication.
 ✅ Product Catalog – View a wide range of grocery items with images, descriptions, and prices.
 ✅ Search & Filters – Easily find products with search functionality and category filters.
